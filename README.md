@@ -3,6 +3,7 @@
 This is for a scenario for Azure GOAT.
 
 Credits:
+	
 	HTML Template:
 		HTML5Up (html5up.net)
 	
